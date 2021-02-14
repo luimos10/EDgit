@@ -14,3 +14,10 @@ Se recomienda una organizacion que sea la propietaria del repositorio principal.
 4. Menu es nueva organizacion 
 5. llenar plan
 6. elegir plan y llenadr datos
+
+
+## Creacion del  fork
+
+para crear un fork debes iniciar una sesion en github y luego ingresasr a landing page del proyecto al que quieras sacar tu fork.
+
+
