@@ -21,3 +21,5 @@ Se recomienda una organizacion que sea la propietaria del repositorio principal.
 para crear un fork debes iniciar una sesion en github y luego ingresasr a landing page del proyecto al que quieras sacar tu fork.
 
 este es otro camnbio de prueba para subirlo con Visual SC
+
+este es otro cambio de vsc 2do cambio 
